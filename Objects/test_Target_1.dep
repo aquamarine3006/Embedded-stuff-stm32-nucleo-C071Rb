@@ -1,0 +1,9 @@
+Dependencies for Project 'test', Target 'Target_1': (DO NOT MODIFY !)
+CompilerVersion: 6240000::V6.24::ARMCLANG
+F (.\main.c)(0x69F4E3D4)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ../test-I./RTE/_Target_1-IC:/Users/Aqua/AppData/Local/Arm/Packs/ARM/CMSIS/6.3.0/CMSIS/Core/Include-D__UVISION_VERSION="543" -DSTM32C071xx -D_RTE_-o ./objects/main.o -MMD)
+F (.\startup_stm32c071xx.s)(0x69F49457)(--target=arm-arm-none-eabi -mcpu=cortex-m0plus -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/_Target_1-IC:/Users/Aqua/AppData/Local/Arm/Packs/ARM/CMSIS/6.3.0/CMSIS/Core/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 543" -Wa,armasm,--pd,"STM32C071xx SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_stm32c071xx.o)
+F (.\system_stm32c0xx.c)(0x69F49468)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ../test-I./RTE/_Target_1-IC:/Users/Aqua/AppData/Local/Arm/Packs/ARM/CMSIS/6.3.0/CMSIS/Core/Include-D__UVISION_VERSION="543" -DSTM32C071xx -D_RTE_-o ./objects/system_stm32c0xx.o -MMD)
+I (stm32c0xx.h)(0x69F49802)
+I (stm32c071xx.h)(0x69F49823)
+I (C:\Users\Aqua\AppData\Local\Arm\Packs\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm0plus.h)(0x69F1E950)
+I (system_stm32c0xx.h)(0x69F49839)
